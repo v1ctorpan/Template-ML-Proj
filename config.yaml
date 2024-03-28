@@ -1,5 +1,5 @@
 model:
-  d_model: 5
+  d_model: 6
 data:
   path: ./data
   val_rate: 0.1

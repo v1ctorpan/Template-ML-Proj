@@ -1,0 +1,22 @@
+data:
+  batch_size: 8
+  path: ./data
+  val_rate: 0.1
+earlystop:
+  delta: 0.1
+  patience: 7
+model:
+  d_model: 5
+modelsave:
+  checkpoints: 5
+  path: ./logs
+  tag: test
+others:
+  save_path: pred.csv
+  seed: 666
+training:
+  device: cuda:0
+  early_stop: true
+  epochs: 50
+  lr: 0.001
+  model_save: true

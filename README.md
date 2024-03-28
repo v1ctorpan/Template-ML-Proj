@@ -14,7 +14,6 @@ This project aims at helping building your own Machine Learning code with some b
 │    └── covid_test.csv     // Test data
 ├── logs
 └── utils
-
 ```
 ## Acknowledge
 Special thanks to Prof. Lee Hong-Yi from Taiwan Univ for his extrordinary ML lessons. The demo training data is from his [ML 2023 lesson](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php).

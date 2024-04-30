@@ -18,7 +18,7 @@ This project aims at helping building your own Machine Learning code with some b
 │         ├── checkpoint_{epoch}_epoch.pkl  // The saved model in `epoch` epoch
 │         └── checkpoint_last_epoch.pkl     // The saved model in last epoch
 └── utils                   // Put your utils funcs here
-     └── modelsavesssss.py       // Model saving func
+     └── modelsave.py       // Model saving func
 
 ```
 ## Acknowledge
